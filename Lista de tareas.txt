@@ -5,6 +5,10 @@
 - Entregar informe de avance
 - Tomar examen de recuperacion
 - Preparar clases de programacion web
+	- css
+	- html5
+	- Materalize
+	- Javascript
 - Entregar informe
 - Reunion de trabajo
 - Comprar regalitos para navidad
