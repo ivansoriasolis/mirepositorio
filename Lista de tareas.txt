@@ -4,3 +4,6 @@
 - LLenar registro de notas
 - Entregar informe de avance
 - Tomar examen de recuperacion
+- Preparar clases de programacion web
+- Entregar informe
+- Reunion de trabajo
