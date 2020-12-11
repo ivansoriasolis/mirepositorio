@@ -1,0 +1,3 @@
+- Elaborar examen de matematica discreta
+- Revisar trabajos de programacion web
+- Revisar trabajos de seguridad informatica
