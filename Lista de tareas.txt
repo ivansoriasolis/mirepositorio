@@ -5,5 +5,7 @@
 - Entregar informe de avance
 - Tomar examen de recuperacion
 - Preparar clases de programacion web
+	- css
+	- html5
 - Entregar informe
 - Reunion de trabajo
