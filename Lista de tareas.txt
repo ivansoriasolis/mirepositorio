@@ -7,5 +7,7 @@
 - Preparar clases de programacion web
 	- css
 	- html5
+	- Materalize
+	- Javascript
 - Entregar informe
 - Reunion de trabajo
