@@ -1,3 +1,6 @@
 - Elaborar examen de matematica discreta
 - Revisar trabajos de programacion web
 - Revisar trabajos de seguridad informatica
+- LLenar registro de notas
+- Entregar informe de avance
+- Tomar examen de recuperacion
